@@ -36,7 +36,7 @@ These contributors interact directly with the core infrastructure to provide a s
 * [Monero Node Operators](https://github.com/monocle-network/roles/issues/1)
 * [Seed Node Operators](https://github.com/monocle-network/roles/issues/2)
 * [Price Node Operators](https://github.com/monocle-network/roles/issues/3)
-* [Markets Operator](https://github.com/monocle-network/roles/issues/6)\
+* [Markets Operator](https://github.com/monocle-network/roles/issues/6)
   
 ### 🧐 Application-Facing Roles
 These developers or maintainers work directly on the network client application code-base to deliver a stable and consistent software experience.
