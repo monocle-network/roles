@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/monocle-network/monocle-network.github.io/blob/main/assets/monocle-banner.jpg?raw=true" alt="Monocle logo">
+</div>
+
 # Roles
 
 A place for contributors to understand role requirements and to post performance reports.
