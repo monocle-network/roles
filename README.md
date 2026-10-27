@@ -62,6 +62,12 @@ This repository is reserved strictly for the following operational workflows:
 
 ---
 
+## Current Vacancies
+
+For currency role vacancies see the [Help Wanted](https://github.com/monocle-network/meta/issues/2) Meta issue.
+
+---
+
 ## Resources
 
 For more information on the contributor roles see the [Monocle Wiki](https://monocle.wiki/Contributor_Roles).
