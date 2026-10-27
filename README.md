@@ -60,4 +60,10 @@ This repository is reserved strictly for the following operational workflows:
 * **Operational Auditing:** Allowing curious users or stakeholders to look inside the exchange and see how it operates under the hood.
 * **On-boarding Preparation:** Giving prospective contributors an upfront view of what is required before they commit to joining.
 
+---
+
+## Resources
+
+For more information on the contributor roles see the [Monocle Wiki](https://monocle.wiki/Contributor_Roles).
+
 > **Access Note:** Only active project contributors are authorized to open new issues in this repository. New roles will be added and published as they become available.
