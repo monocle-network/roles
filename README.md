@@ -41,9 +41,13 @@ These contributors interact directly with the core infrastructure to provide a s
 * [Seed Node Operators](https://github.com/monocle-network/roles/issues/2)
 * [Price Node Operators](https://github.com/monocle-network/roles/issues/3)
 * [Markets Operator](https://github.com/monocle-network/roles/issues/6)
+* [Wiki Operator](https://github.com/monocle-network/roles/issues/11)
+* [Blog Operator](https://github.com/monocle-network/roles/issues/12)
+* [Domain Operator](https://github.com/monocle-network/roles/issues/13)
   
 ### 🧐 Application-Facing Roles
 These developers or maintainers work directly on the network client application code-base to deliver a stable and consistent software experience.
+* [Lead Developer](https://github.com/monocle-network/roles/issues/10)
 * [Open-Source Application Maintainers](https://github.com/monocle-network/roles/issues/9)
 
 ### 👥 Contributor-Facing Roles
@@ -64,7 +68,7 @@ This repository is reserved strictly for the following operational workflows:
 
 ## Current Vacancies
 
-For currency role vacancies see the [Help Wanted](https://github.com/monocle-network/meta/issues/2) Meta issue.
+For current role vacancies see the [Help Wanted](https://github.com/monocle-network/meta/issues/2) Meta issue.
 
 ---
 
