@@ -43,7 +43,7 @@ These contributors interact directly with the core infrastructure to provide a s
 * [Markets Operator](https://github.com/monocle-network/roles/issues/6)
 * [Wiki Operator](https://github.com/monocle-network/roles/issues/11)
 * [Blog Operator](https://github.com/monocle-network/roles/issues/12)
-* [Domain Operator](https://github.com/monocle-network/roles/issues/13)
+* [Domain Operators](https://github.com/monocle-network/roles/issues/13)
   
 ### 🧐 Application-Facing Roles
 These developers or maintainers work directly on the network client application code-base to deliver a stable and consistent software experience.
