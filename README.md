@@ -77,3 +77,35 @@ For current role vacancies see the [Help Wanted](https://github.com/monocle-netw
 For more information on the contributor roles see the [Monocle Wiki](https://monocle.wiki/Contributor_Roles).
 
 > **Access Note:** Only active project contributors are authorized to open new issues in this repository. New roles will be added and published as they become available.
+
+## Support Monocle
+
+Monocle Network is bootstrapped. No investors, no venture funding, no network token. The network is funded entirely by its own fees, and contributors are compensated only when collected fees allow.
+
+If Monocle is useful to you, please consider supporting the network. Donations help fund contributor compensation.
+
+---
+
+### Monero Donation Address
+
+<div align="left">
+  <img src="https://github.com/monocle-network/design/blob/main/assets/qr-codes/monero-donation-address.PNG?raw=true" alt="Monero donation address">
+</div>
+<br>
+
+XMR address:
+
+`491NTUCgGiQLusEVcbY3YR9yHS58tadS6UKCzSDHE3mCVGjS8WfdzjR2oGjajr2BVb4KREj4EWh7V3gsDEj64yWZL9yxmtV`
+
+---
+
+### Bitcoin Donation Address
+
+<div align="left">
+  <img src="https://github.com/monocle-network/design/blob/main/assets/qr-codes/bitcoin-donation-address.PNG?raw=true" alt="Bitcoin donation address">
+</div>
+<br>
+
+BTC address:
+
+`bc1q73atgzspzsr95tvyf592fc9vvzja7tszsw2hv40pz7ve4ejgf6hqu9dqyt`
